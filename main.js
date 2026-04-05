@@ -1,1 +1,1 @@
-"//the bug issue has been resolved" 
+"//The bug issue has been resolved" 
