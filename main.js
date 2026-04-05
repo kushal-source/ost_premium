@@ -1,1 +1,1 @@
-"console.log('This is feature branch');" 
+"//the bug issue has been resolved" 
